@@ -1,0 +1,7 @@
+myenv/
+google-gemma-4-E2B/
+gemma-4-E4B/
+waste/
+*.csv
+__pycache__/
+*.pyc
